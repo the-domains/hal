@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hal]]></title>
+        <description><![CDATA[Hal]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 04 Nov 2015 21:33:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ökokapszula - a jövő lakótojása]]></title>
+            <description><![CDATA[<article><h1>Ökokapszula - a jövő lakótojása</h1><p>Egy fiatalokból álló pozsonyi építész stúdió, a Nice Architects egy környezetbarát mobil otthonként vagy nyaralóként is szolgáló innovatív ötlettel állt elő. Az Ökokapszula tulajdonképpen egy alacsony energiafelhasználású, mobil otthon, amely egyesíti az off-the-grid életmódot és az energiatakarékosságot a kényelemmel. A kis tojás alakú ház méreteit tekintve mindössze 4,5 méter hosszú , 2,4 méter széles és 2,5 méter magas.</p><img src="http://tudatosvasarlo.hu/sites/tudatosvasarlo.hu/files/ecocapsule-interior.jpg"></article>]]></description>
+            <link>http://tudatosvasarlo.hu/cikk/okokapszula-jovo-lakotojasa</link>
+            <guid isPermaLink="false">9d3045fa-c038-4f39-9147-e20504e907b2</guid>
+            <pubDate>Wed, 04 Nov 2015 21:33:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
