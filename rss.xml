@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hal]]></title>
+        <description><![CDATA[Hal]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 04 Nov 2015 21:12:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://tudatosvasarlo.hu/sites/tudatosvasarlo.hu/files/imagecache/lead_utani_kep/after_lead/55605379d49a9.jpg">]]></description>
+            <link>undefined10415d63-0266-4a87-850f-483a036806c3/index.html</link>
+            <guid isPermaLink="false">10415d63-0266-4a87-850f-483a036806c3</guid>
+            <pubDate>Wed, 04 Nov 2015 21:11:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
