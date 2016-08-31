@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: halasizsolt.hu
+    url: halasizsolt.hu
+    type: external
 favicon: null
 title: Neten talált érdekes/értékes tartalmak.
 purpose: []
